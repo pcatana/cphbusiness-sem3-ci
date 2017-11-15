@@ -3,6 +3,8 @@ package dk.cphbusiness.cphbusiness.sem3.ci;
 /**
  *
  * @author jens
+ *
+ * and Petru
  */
 public class MyFunctionality {
 
